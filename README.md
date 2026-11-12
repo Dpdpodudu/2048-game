@@ -26,3 +26,32 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Dpdpodudu/2048-game.git](https://github.com/Dpdpodudu/2048-game.git)
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd 2048-game
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server:**
+   ```bash
+   npm start
+   ```
+   *The game will open automatically in your default browser.*
+
+## 📦 Build and Deployment
+
+To create a production-ready build:
+```bash
+npm run build
+```
+
+To deploy the project to GitHub Pages:
+```bash
+npm run deploy
+```
